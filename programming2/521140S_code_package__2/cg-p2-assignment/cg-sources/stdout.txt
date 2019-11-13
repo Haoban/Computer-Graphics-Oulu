@@ -1,0 +1,7 @@
+Using GLEW 1.13.0
+GL_KHR_debug defined (OpenGL 4.3 feature).
+SDL_GL_CONTEXT_MAJOR_VERSION: 3
+SDL_GL_CONTEXT_MINOR_VERSION: 2
+Loaded flag texture as texture 1
+texture0 uniform id: 2
+Initial width and height: 640 x 480

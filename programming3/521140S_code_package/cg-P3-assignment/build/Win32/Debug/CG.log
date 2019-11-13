@@ -1,0 +1,8 @@
+﻿  assignment3.cpp
+k:\my documents\computer graphics\programming3\521140s_code_package\cg-p3-assignment\cg-sources\assignment3.cpp(343): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+k:\my documents\computer graphics\programming3\521140s_code_package\cg-p3-assignment\cg-sources\assignment3.cpp(344): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+k:\my documents\computer graphics\programming3\521140s_code_package\cg-p3-assignment\cg-sources\assignment3.cpp(361): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+k:\my documents\computer graphics\programming3\521140s_code_package\cg-p3-assignment\cg-sources\assignment3.cpp(362): warning C4244: '=': conversion from 'const Sint32' to 'float', possible loss of data
+k:\my documents\computer graphics\programming3\521140s_code_package\cg-p3-assignment\cg-sources\assignment3.cpp(328): warning C4101: 'key': unreferenced local variable
+  CG.vcxproj -> K:\My Documents\Computer graphics\programming3\521140S_code_package\cg-P3-assignment\bin\Win32\CG.exe
+  CG.vcxproj -> K:\My Documents\Computer graphics\programming3\521140S_code_package\cg-P3-assignment\bin\Win32\CG.pdb (Full PDB)
